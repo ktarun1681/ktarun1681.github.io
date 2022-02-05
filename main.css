@@ -13,8 +13,9 @@ align-items: center;
 font-family: "Poppins", sans-serif;
 }
 #profile_tarun {
-    width: 215px;
-    height: 200px;
+    width: 180px;
+    height: 180px;
+    margin: -53px -29px;
 }
 
 #loading {
