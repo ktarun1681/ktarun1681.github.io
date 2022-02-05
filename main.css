@@ -12,6 +12,10 @@ overflow-x: hidden;
 align-items: center;
 font-family: "Poppins", sans-serif;
 }
+#profile_tarun {
+    width: 215px;
+    height: 200px;
+}
 
 #loading {
 width: 100vw;
